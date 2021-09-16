@@ -1,0 +1,4 @@
+[submodule "SubModuleTest"]
+	path = SubModuleTest
+	url = https://github.com/mm185615/SubModuleTest
+	branch = Branch1
